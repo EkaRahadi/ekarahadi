@@ -67,6 +67,15 @@
 
 ---
 
+
+## 📌 Featured Projects
+ 
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🔗 RBAC Service](https://github.com/ekarahadi/rbac-service) | rbac-service is a pure authorization service. It answers one question: is user X allowed to do Y on Z? | Go, RBAC, Microservice |
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ekarahadi&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
